@@ -38,8 +38,6 @@ It’s built to extract and monitor data from the [Spotify Web API](https://deve
 
 - ✅ CKA
 - ⏳ AWS SAA
-- ⏳ CCNA
-
 
 ---
 
