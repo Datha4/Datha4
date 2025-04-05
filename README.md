@@ -1,9 +1,7 @@
 # 👋 Hi, I’m David!
 
 Welcome to my GitHub profile!  
-I'm a passionate **Data Engineer** with a **DevOps** background
-
-I enjoy building modern data pipelines, automating workflows, and integrating tools to deliver clean, scalable solutions.
+I'm a passionate **NetDevOps** with a **Data Engineer** background
 
 ---
 
@@ -28,29 +26,24 @@ It’s built to extract and monitor data from the [Spotify Web API](https://deve
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: Python, SQL, Bash
-- **Data Tools**: Airflow, Pandas, DBT (coming soon), Kafka (planned)
+- **Data Tools**: Airflow, Pandas, Spark,
 - **Infrastructure**: Kubernetes, Docker, Rancher, Ansible, AWX
-- **Databases**: PostgreSQL, pgAdmin
+- **Databases**: PostgreSQL, MongoDB, Elastic
 - **APIs**: FastAPI, REST, OpenAPI
-- **Dashboards**: Streamlit, Grafana
+- **Dashboards**: Streamlit, Grafana, Power BI
 
 ---
 
-## 💼 Currently Working On
+## 💼 Certifications
 
-✅ Automating network inventory with NetBox + Ansible  
-✅ Building end-to-end data pipelines (Spotify use case)  
-✅ Learning DBT & Kafka for future streaming use cases  
-✅ Studying for the **CCNA** certification
+- ✅ CKA
+- ⏳ AWS SAA
+- ⏳ CCNA
+
 
 ---
 
 ## 📬 Contact
 
 📧 david.thak4@gmail.com  
-🌍 Based in France  
-🤝 Open to collaboration and new opportunities!
-
----
-
-⭐️ Feel free to explore my projects, drop a star, or reach out if you want to talk tech!
+🌍 Montreal
