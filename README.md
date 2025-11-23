@@ -7,12 +7,12 @@ I'm a passionate **NetDevOps** with a **Data Engineer** background
 
 ## 🚀 Featured Project: 
 
-### Hackathon Project: League of Legends
+### 1. Hackathon Project: League of Legends
 
 **Hackathon-LoL** is a serverless data pipeline built around the Riot Games API.  
 The goal: provide fun, actionable, and shareable insights for players by combining micro-level game analysis with macro-level performance trends.
 
-🔧 **Features:**
+🔧 **Main Features:**
 - AWS Lambda functions fetching Summoner info, Ranked data, Champion masteries & Match history  
 - All data stored as JSON in Amazon S3  
 - Smart differential match fetching (only download missing matches)  
@@ -20,9 +20,9 @@ The goal: provide fun, actionable, and shareable insights for players by combini
 - Clean modular Python code (Requests, Boto3, Pandas)
 - Using LLM (Claude) to analyze games and share insights from games datas and players
 
-[Checkout the repository ](https://github.com/Datha4/hackathon-rift)
+👉 [Checkout the repository ](https://github.com/Datha4/hackathon-rift)
 
-### Spotify-ETL
+### 2. Spotify-ETL
 
 🎧 [**Spotify-ETL**](https://github.com/datha4/spotify-etl) is a personal project that merges Data Engineering with DevOps best practices.
 
