@@ -22,22 +22,6 @@ The goal: provide fun, actionable, and shareable insights for players by combini
 
 👉 [Checkout the repository ](https://github.com/Datha4/hackathon-rift)
 
-### 2. Spotify-ETL
-
-🎧 [**Spotify-ETL**](https://github.com/datha4/spotify-etl) is a personal project that merges Data Engineering with DevOps best practices.
-
-It’s built to extract and monitor data from the [Spotify Web API](https://developer.spotify.com/documentation/web-api), and display the results through a custom web application.
-
-🔧 **Main features:**
-- Automated data extraction via the Spotify API
-- Workflow orchestration with **Apache Airflow**
-- Data stored in **PostgreSQL**, managed via **pgAdmin**
-- REST API built with **FastAPI**
-- Interactive dashboard with **Streamlit**
-- Entire stack deployed on a **Kubernetes cluster** managed by **Rancher**
-
-👉 [Check out the repository](https://github.com/datha4/spotify-etl)
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -61,4 +45,3 @@ It’s built to extract and monitor data from the [Spotify Web API](https://deve
 ## 📬 Contact
 
 📧 david.thak4@gmail.com  
-🌍 Montreal
